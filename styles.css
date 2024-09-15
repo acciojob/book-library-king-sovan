@@ -40,12 +40,13 @@ body{
 	margin-bottom: 10px;
 }
 
-button{
+.price-block{
 	background-color: #2ecc71;
 	color: #777777;
 	padding: 10px;
 	font-size: 16px;
 	display: inline-block;
 	border-radius: 5px;
-	width: 100%
+	width: 100%;
+	text-align: center;
 }
