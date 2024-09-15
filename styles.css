@@ -42,7 +42,7 @@ body{
 
 .price-block{
 	background-color: #2ecc71;
-	color: #777777;
+	color: rgb(255, 255, 255);
 	padding: 10px;
 	font-size: 16px;
 	display: inline-block;
